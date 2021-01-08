@@ -2,7 +2,7 @@
 
 
 ## Guide
-1. import the src/Database.sql in your database.
+1. import the src/Database.sql in a database.
    A table will be generated named UM_general_country.
 2. for flags copy the flags folder.
 
@@ -12,11 +12,11 @@
 ## Statistics
 |        Topic        |    Done ([0-9]*)    |    Done (%)    |
 |---------------------|---------------------|----------------|
-| Country             | 250                 | N/A            |
-| Dialing Code        | 250                 | 100%           |
-| letters_2           | 232                 | 92.8%          |
-| letters_3           | 232                 | 92.8%          |
-| flag                | 232                 | 92.8%          |
+| Country             | 238                 | N/A            |
+| Dialing Code        | 238                 | 100%           |
+| letters_2           | 238                 | 100%           |
+| letters_3           | 238                 | 100%           |
+| flag                | 238                 | 100%           |
 
 
 
