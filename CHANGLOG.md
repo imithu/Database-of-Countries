@@ -1,3 +1,10 @@
+### [v0.1.0](https://github.com/imithu/Database-of-Countries/releases/tag/v0.1.0) - 2021-Jan-08
+#### Mixed
+- A lot of improvement
+
+
+
+
 ### [v0.0.0](https://github.com/imithu/Database-of-Countries/releases/tag/v0.0.0) - 2021-Jan-07
 #### Added
 - Initial public release.
