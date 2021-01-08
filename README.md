@@ -21,8 +21,14 @@
 
 
 
-## Special Thanks to these great repositories
+## Special Thanks
 - [hjnilsson/country-flags](https://github.com/hjnilsson/country-flags.git)
+
+
+## Warning
+The project may be not the 100% correct. This project also contains information which is not considered or is considered as true for many place, country, religion and race.
+I am doing my best for making this too much accurate with my little knowledge.
+Please, make me correct, if i have done something wrong.
 
 
 
