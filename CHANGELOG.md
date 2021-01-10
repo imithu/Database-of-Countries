@@ -1,7 +1,15 @@
+### [v0.2.1](https://github.com/imithu/Database-of-Countries/releases/tag/v0.2.1) - 2021-Jan-11
+#### Fixed
+- Converting the data into JSON format problem is solved
+
+
+
+
 ### [v0.2.0](https://github.com/imithu/Database-of-Countries/releases/tag/v0.2.0) - 2021-Jan-11
 #### Changed
 - Dialing code in plain text instead of json format
 - Dialing code of Åland Islands has been corrected
+
 
 
 
