@@ -29,6 +29,7 @@
 The project may be not the 100% correct. This project also contains information which is not considered or is considered as true for many place, country, religion and race.
 I am doing my best for making this too much accurate with my little knowledge.
 Please, make me correct, if i have done something wrong.
+Please add, change or delete the info according to your need or according to your country's law (if need or applicable).
 
 
 
